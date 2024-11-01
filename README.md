@@ -1,4 +1,6 @@
-# Hi, I am Carlos Iván 👋
+# ![Typing animation of "Hi, I am Carlos Iván"](https://your_image_hosting_link.com/typing.gif)
+
+### Me especializo en programación Backend y Frontend
 
 ## Tecnologías que uso
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -7,6 +9,7 @@
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 
 
