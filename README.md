@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hola 👋</h1>
 
 ###
 
-<p align="left">Soy Carlos Iván Estrada Zamudio, actualmente estudio Ingeniería en Sistemas Computacionales.<br>Tengo conocimientos de desarrollo web Front-end y Back-end, facilidad para el trabajo de equipo y aportar soluciones proactivas.</p>
+<p align="left">Soy Carlos Estrada, actualmente estudio Ingeniería en Sistemas Computacionales.<br>Tengo conocimientos de desarrollo web Front-end y Back-end, facilidad para el trabajo de equipo y aportar soluciones proactivas.</p>
 
 ###
 
